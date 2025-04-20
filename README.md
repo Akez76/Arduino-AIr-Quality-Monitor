@@ -20,7 +20,7 @@ This Arduino project measures temperature, humidity, and air quality, then displ
 - The Arduino continuously reads all sensor data, formats it, and updates the screen every second.
 
 # 4.Project outline
-![Project outline](https://github.com.jpg)
+![Project outline](https://github.com/Akez76/Arduino-AIr-Quality-Monitor/blob/main/AIr%20n1.jpeg)
 
 # 5.Wiring Summary
 | Component     | Arduino Pin |
