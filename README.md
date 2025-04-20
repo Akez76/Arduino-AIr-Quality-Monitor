@@ -37,10 +37,12 @@ This Arduino project measures temperature, humidity, and air quality, then displ
 | OLED SDA      | A4          |
 | OLED SCL      | A5          |      
 
-
+/Akez76/Arduino-AIr-Quality-Monitor/blob/main/Result.jpeg
 # 6.Photos
 ![Air Quality Monitor](https://github.com/Akez76/Arduino-AIr-Quality-Monitor/blob/main/AIr%20n2.jpeg)
 ![Air Quality Monitor2](https://github.com/Akez76/Arduino-AIr-Quality-Monitor/blob/main/AIr%20n1.jpeg)
+![Result](https://github.com/Akez76/Arduino-AIr-Quality-Monitor/blob/main/Result.jpeg)
+
 
 # 7.Skills Used / Learned
 - Sensor integration (DHT22 and MQ135)
