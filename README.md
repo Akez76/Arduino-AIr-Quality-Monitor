@@ -40,7 +40,7 @@ This Arduino project measures temperature, humidity, and air quality, then displ
 /Akez76/Arduino-AIr-Quality-Monitor/blob/main/Result.jpeg
 # 6.Photos
 ![Air Quality Monitor](https://github.com/Akez76/Arduino-AIr-Quality-Monitor/blob/main/AIr%20n2.jpeg)
-![Air Quality Monitor2](https://github.com/Akez76/Arduino-AIr-Quality-Monitor/blob/main/AIr%20n1.jpeg)
+![Air Quality Monitor2](https://github.com/Akez76/Arduino-AIr-Quality-Monitor/blob/main/AIr%20n3.jpeg)
 ![Result](https://github.com/Akez76/Arduino-AIr-Quality-Monitor/blob/main/Result.jpeg)
 
 
