@@ -38,7 +38,8 @@ This Arduino project measures temperature, humidity, and air quality, then displ
 
 
 # 6.Photos
-![Air Quality Monitor](https://github.com.jpg)
+![Air Quality Monitor](https://github.com/Akez76/Arduino-AIr-Quality-Monitor/blob/main/AIr%20n2.jpeg)
+![Air Quality Monitor2](https://github.com)
 
 # 7.Skills Used / Learned
 - Sensor integration (DHT22 and MQ135)
