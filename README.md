@@ -6,7 +6,7 @@ This Arduino project measures temperature, humidity, and air quality, then displ
 
 # 2.Components Used
 - Arduino Nano
-- ASAIR AM2302(Temperature and Humidity Sensor)
+- DHT22(Temperature and Humidity Sensor)
 - MQ135 (Air Quality Sensor)
 - 0.96" I2C OLED Display (SSD1306)
 
