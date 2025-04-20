@@ -22,6 +22,7 @@ This Arduino project measures temperature, humidity, and air quality, then displ
 # 4.Project outline
 ![Project outline](https://github.com/Akez76/Arduino-AIr-Quality-Monitor/blob/main/AIr%20n1.jpeg)
 
+
 # 5.Wiring Summary
 | Component     | Arduino Pin |
 |---------------|-------------|
@@ -39,7 +40,7 @@ This Arduino project measures temperature, humidity, and air quality, then displ
 
 # 6.Photos
 ![Air Quality Monitor](https://github.com/Akez76/Arduino-AIr-Quality-Monitor/blob/main/AIr%20n2.jpeg)
-![Air Quality Monitor2](https://github.com)
+![Air Quality Monitor2](https://github.com/Akez76/Arduino-AIr-Quality-Monitor/blob/main/AIr%20n1.jpeg)
 
 # 7.Skills Used / Learned
 - Sensor integration (DHT22 and MQ135)
